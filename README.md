@@ -1,5 +1,3 @@
-Claro, eu posso tentar melhorar o README que eu criei para a sua aplicação. Aqui está uma versão mais bonita, com um link de referência do Bootstrap 5, um ícone e algumas outras coisas:
-
 # PyWeb <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40"/>
 
 PyWeb é uma aplicação em Python que cria um servidor socket e envia um arquivo HTML para o navegador do cliente quando ele se conecta.
